@@ -8,4 +8,7 @@ TinyUrl:
 
 # Exercise
 URL: 
-- [Siri Exercise](https://github.com/NSA-Computer-Exchange/TUG-2023-Siri-Shortcuts/blob/main/
+- [Siri Exercise](https://github.com/NSA-Computer-Exchange/TUG-2023-Siri-Shortcuts/blob/main/Siri_Exercises.zip)
+
+TinyUrl:
+- https://tinyurl.com/SiriExercise
