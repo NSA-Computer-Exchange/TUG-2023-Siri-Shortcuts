@@ -12,3 +12,6 @@ URL:
 
 TinyUrl:
 - https://tinyurl.com/SiriExercise
+
+# Get Product Availability Shortcut
+- [Product Avauilability Shortcut](https://www.icloud.com/shortcuts/9ae4fc1294ce416ba9a8f0444f355f8b)
