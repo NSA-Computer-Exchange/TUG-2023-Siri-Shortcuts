@@ -1,6 +1,6 @@
 <img src="https://github.com/NSA-Computer-Exchange/TUG-2023-Siri-Shortcuts/blob/main/365744172_1292939334807970_2555198945437385937_n.jpg" alt="Siri Banner">
 
-<p align="center"> ## Introducing Siri Shortcuts for CloudSuite Distribution</p>
+<p align="center" size="12">Introducing Siri Shortcuts for CloudSuite Distribution</p>
 
 
 ### NSA Siri-Shortcuts
