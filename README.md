@@ -1,6 +1,6 @@
 <img src="https://github.com/NSA-Computer-Exchange/TUG-2023-Siri-Shortcuts/blob/main/365744172_1292939334807970_2555198945437385937_n.jpg" alt="Siri Banner">
 
-<p align="center" size="12">Introducing Siri Shortcuts for CloudSuite Distribution</p>
+<p align="center"><h3>Introducing Siri Shortcuts for CloudSuite Distribution/h3></p>
 A Shortcut is a fast and efficient way of completing common tasks. Shortcuts can be developed to integrate and work with Infor Cloudsuite Distribution and other Infor Tech Stack technologies.
 
 
